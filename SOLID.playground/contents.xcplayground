@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introdução'/>
+        <page name='SRP - Conceito'/>
+        <page name='SRP - Como Aplicar'/>
+        <page name='OCP - Conceito'/>
+        <page name='OCP - Como Aplicar'/>
+        <page name='LSP - Conceito'/>
+        <page name='ISP - Conceito'/>
+        <page name='ISP - Como Aplicar'/>
+        <page name='DIP - Conceito'/>
+        <page name='DIP - Como Aplicar'/>
+    </pages>
+</playground>
